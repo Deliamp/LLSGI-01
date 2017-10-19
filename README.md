@@ -1,5 +1,3 @@
-# LLSGI-01
-#Repositorio para tarea 1 - LLSGI - ASIR
 ##**INTRODUCCIÓN A LOS LENGUAJES DE MARCA - LLSGI**
 ###**TEMA 1**
 ####**Tarea**
