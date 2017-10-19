@@ -3,7 +3,7 @@
 # INTRODUCCIÓN A LOS LENGUAJES DE MARCA - LLSGI
 ## TEMA 1
 **Tarea**
-**Alumna: Delia Montero Peralta*+
+**Alumna: Delia Montero Peralta**
 
 Descripción de las diversas actividades realizadas:
 
