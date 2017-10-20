@@ -13,7 +13,7 @@ He generado los archivos siguientes:
 
 **Nota previa**
 
-Como indica el enunciado de la tarea tan solo me limito a copiar el código y pegarlo dado que lo que se pretende es trabajar con las extensiones del fichero.
+Como indica el enunciado de la tarea tan solo me limito a copiar el código y pegarlo dado que lo que se pretende es trabajar con las extensiones del fichero. 
 
 1. *Ejemplo LaTex* (con las extensiones html, xml y rtf)
 2. *Ejemplo Postscript* (con las extensiones html, xml y rtf)
